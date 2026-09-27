@@ -1,39 +1,25 @@
-# Привет! Я Ярослав 👋
+# Ярослав Федоров
 
-Фронтенд-разработчик, специализирующийся на создании быстрых и интерактивных веб-приложений с использованием **React** и **TypeScript**.
-
----
-
-### 🛠 Технологический стек
-
-<!-- Иконки технологий сделают профиль ярким и профессиональным -->
-<p align="left">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Redux" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+Фронтенд-разработчик (**React** / **TypeScript**)
 
 ---
 
-### 🚀 Мои проекты
-
-* **[Название Проекта 1](Ссылка на GitHub репозиторий)** — Краткое описание (например: SPA-приложение для поиска авиабилетов).
-  * *Стек:* React, TypeScript, Redux Toolkit, Tailwind CSS.
-  * *Демо:* [👉 Посмотреть проект в браузере](Ссылка на развернутый проект на Vercel/Netlify)
-
-* **[Название Проекта 2](Ссылка на GitHub репозиторий)** — Краткое описание (например: Интерактивный таск-трекер с drag-and-drop).
-  * *Стек:* React, TypeScript, SCSS Modules.
-  * *Демо:* [👉 Посмотреть проект в браузере](Ссылка на развернутый проект на Vercel/Netlify)
+### 🛠 Стек
+* **Код:** JavaScript (ES6+), TypeScript, React, Next.js
+* **Стейт & Стили:** Redux Toolkit, HTML5, CSS3, Tailwind CSS / SCSS
+* **Инструменты:** Git, GitHub, Webpack / Vite
 
 ---
 
-### 📬 Как со мной связаться
+### 🚀 Проекты
+* **[Название проекта #1](ссылка на репозиторий)** — Краткая суть проекта.
+  * [Демо в браузере](ссылка на рабочий сайт) | `React` `TypeScript` `Redux`
+* **[Название проекта #2](ссылка на репозиторий)** — Краткая суть проекта.
+  * [Демо в браузере](ссылка на рабочий сайт) | `React` `Vite` `Tailwind`
 
-* **Сайт-визитка:** [yaroslavfedorov.ru](https://yaroslavfedorov.ru)
-* **LinkedIn:** [Ваш профиль](Ссылка на ваш LinkedIn)
-* **Telegram:** [@ваш_никнейм](https://t.me)
-* **Email:** [ваш_email@example.com](mailto:ваш_email@example.com)
+---
+
+### 📬 Контакты
+* **Сайт:** [yaroslavfedorov.ru](https://yaroslavfedorov.ru)
+* **Telegram:** [@ваш_ник](https://t.me)
+* **LinkedIn:** [Профиль](ссылка)
